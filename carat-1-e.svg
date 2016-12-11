@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="48px" height="48px" viewBox="-12.863 -12.863 48 48" enable-background="new -12.863 -12.863 48 48"
+	 xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="#1D1D1B" points="7.159,22.273 18.296,11.137 7.159,0 3.978,3.182 11.933,11.137 3.978,19.092 "/>
+<polygon display="none" fill="#1D1D1B" points="0,7.159 11.137,18.296 22.273,7.159 19.092,3.978 11.137,11.933 3.182,3.978 "/>
+<polygon display="none" fill="#1D1D1B" points="15.114,0 3.978,11.137 15.114,22.273 18.296,19.092 10.341,11.137 18.296,3.182 "/>
+<polygon display="none" fill="#1D1D1B" points="22.273,15.114 11.137,3.978 0,15.114 3.182,18.296 11.137,10.341 19.092,18.296 "/>
+<polygon display="none" fill="#1D1D1B" points="3.262,19.012 19.012,19.012 19.012,3.262 14.512,3.262 14.512,14.512 3.262,14.512 
+	"/>
+<polygon display="none" fill="#1D1D1B" points="3.262,3.262 3.262,19.012 19.012,19.012 19.012,14.512 7.762,14.512 7.762,3.262 "/>
+<polygon display="none" fill="#1D1D1B" points="19.012,3.262 3.262,3.262 3.262,19.012 7.762,19.012 7.762,7.762 19.012,7.762 "/>
+<polygon display="none" fill="#1D1D1B" points="19.012,19.012 19.012,3.262 3.262,3.262 3.262,7.762 14.512,7.762 14.512,19.012 "/>
+<polyline display="none" fill="none" stroke="#1D1D1B" stroke-width="5" stroke-miterlimit="10" points="6.637,2.137 15.637,11.137 
+	6.637,20.137 "/>
+<polyline display="none" fill="none" stroke="#1D1D1B" stroke-width="5" stroke-miterlimit="10" points="20.137,6.637 
+	11.137,15.637 2.137,6.637 "/>
+<polyline display="none" fill="none" stroke="#1D1D1B" stroke-width="5" stroke-miterlimit="10" points="15.637,20.137 
+	6.637,11.137 15.637,2.137 "/>
+<polyline display="none" fill="none" stroke="#1D1D1B" stroke-width="5" stroke-miterlimit="10" points="2.137,15.637 11.137,6.637 
+	20.137,15.637 "/>
+</svg>
